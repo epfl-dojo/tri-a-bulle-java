@@ -1,0 +1,1 @@
+/home/loic/NetBeansProjects/Exercice7/src/exercice7/outils.java
